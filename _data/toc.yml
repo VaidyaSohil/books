@@ -22,8 +22,8 @@
 # See the links below for an example.
 
 # Top-level page
-- title: Home
-  url: /intro
+- title: Introduction
+  url: /chapters/intro
   not_numbered: true
 
 # External link
